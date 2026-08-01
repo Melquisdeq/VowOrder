@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Vow Order
+## Notes: Reorders the Sun Cleric stance bar (Vow abilities) into a fixed custom order. Requires DragonUI.
+## OptionalDeps: DragonUI
+## Author: You
+
+VowOrder.lua
