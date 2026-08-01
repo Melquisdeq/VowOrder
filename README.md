@@ -1,7 +1,7 @@
 # VowOrder
 <img width="217" height="56" alt="image" src="https://github.com/user-attachments/assets/c4cce96a-cefe-4b8f-9cea-f1cf252b659c" />
 
-A World of Warcraft addon that reorders the Vow stance bar for the **Sun Cleric** class (Piety specialization), since the default stance bar order cannot be modified natively and places low-frequency abilities in high-priority slots.
+A WoW ascension CoA addon that reorders the Vow stance bar for the **Sun Cleric** class (Piety specialization), since the default stance bar order cannot be modified natively and places low-frequency abilities in high-priority slots.
 
 ## Why this addon exists
 
