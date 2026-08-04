@@ -26,15 +26,15 @@ local CreateFrame = CreateFrame
 --         ShapeshiftButtonN to place there)
 --
 -- Current form indices (from /run GetShapeshiftFormInfo scan):
---   1 = Vow of Dawn
---   2 = Vow of Light
---   3 = Vow of Grace
---   4 = Vow of Radiance
+--   1 = Vow of Light
+--   2 = Vow of Dawn
+--   3 = Vow of Radiance
+--   4 = Vow of Grace
 --   5 = Vow of the Eclipse
 --
 -- Desired final order: Radiance, Grace, Dawn, Light, Eclipse
 -- ----------------------------------------------------------------------
-local ORDER = { 4, 3, 1, 2, 5 }
+local ORDER = { 3, 4, 2, 1, 5 }
 
 local function GetSpacing()
     local DragonUI = _G.DragonUI
