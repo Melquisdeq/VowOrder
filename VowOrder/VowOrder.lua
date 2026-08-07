@@ -29,12 +29,12 @@ local CreateFrame = CreateFrame
 --   1 = Vow of Radiance
 --   2 = Vow of Dawn
 --   3 = Vow of the Eclipse
---   4 = Vow of Grace
---   5 = Vow of Light
+--   4 = Vow of Light
+--   5 = Vow of Grace
 --
 -- Desired final order: Radiance, Grace, Dawn, Light, Eclipse
 -- ----------------------------------------------------------------------
-local ORDER = { 1, 4, 2, 5, 3 }
+local ORDER = { 1, 5, 2, 4, 3 }
 
 local function GetSpacing()
     local DragonUI = _G.DragonUI
